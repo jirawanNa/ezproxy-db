@@ -5903,4 +5903,9 @@
     "name": "地质大学",
     "url": "http://yc.hnadl.cn/login?url=$@"
   }
+{
+    "name": "Mahidol University",
+    "url": "https://ejournal.mahidol.ac.th/login?url=$@"
+  }
+
 ]
